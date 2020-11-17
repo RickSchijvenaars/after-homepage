@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="De After is een online evenement op 11 december 2020. Een 7 uur durende after vol chille muziek, activiteiten, sociale interactie en gezelligheid.">
     <meta name="keywords" content="After, Afterparty, Event, Evenement, Online evenement, Online event, 11 december 2020, 11-12-2020">
+    <meta property="og:title" content="De After">
+    <meta property="og:description" content="De After is een online evenement op 11 december 2020. Een 7 uur durende after vol chille muziek, activiteiten, sociale interactie en gezelligheid.">
+    <meta property="og:url" content="https://de-after.nl/">
+    <meta property="og:site_name" content="De After">
+
     <title>De After</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet">
