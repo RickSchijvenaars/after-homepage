@@ -19,8 +19,7 @@
                 <div class="col-md-8 text-white mb-5">
                     <div id="typed-strings">
                         <p>
-                            <b>De After</b><br>
-                            <br>
+                            
                             Een 7 uur durende after vol chille muziek, activiteiten, sociale interactie en gezelligheid. En dat allemaal vanuit je eigen woonkamer!<br>
                             <br>
                             Blijf op de hoogte via het <u><a class="text-white" href=https://www.facebook.com/events/373651393852697>Facebook evenement</a></u>.<br>
