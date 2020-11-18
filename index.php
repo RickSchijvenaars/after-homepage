@@ -36,14 +36,15 @@
                 <div class="col-md-8 text-white mb-5">
                     <div id="typed-strings">
                         <p>
-                            <b>De After</b><br>
-                            <br>
                             Een 7 uur durende after vol chille muziek, activiteiten, sociale interactie en gezelligheid. En dat allemaal vanuit je eigen woonkamer!<br>
                             <br>
-                            Blijf op de hoogte via het <u><a class="text-white" href=https://www.facebook.com/events/373651393852697>Facebook evenement</a></u>.<br>
+                            Blijf op de hoogte via het <u><a target="_blank" class="text-white" href=https://www.facebook.com/events/373651393852697>Facebook evenement</a></u>.<br>
+                            <br>
+                            <b>Tickets:</b><br>
+                            <u><a target="_blank" class="text-white" href=https://eventix.shop/e93qa9cz>klik hier</a></u><br>
                             <br>
                             <b>Contact:</b><br>
-                            <u><a class="text-white" href="mailto:info@de-after.nl">info@de-after.nl</a></u>
+                            <u><a target="_blank" class="text-white" href="mailto:info@de-after.nl">info@de-after.nl</a></u>
                         </p>
                     </div>
                     <div id="typed" class="font"></div>
