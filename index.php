@@ -8,12 +8,21 @@
     <meta property="og:title" content="De After">
     <meta property="og:description" content="De After. Op 11 december 2020 is de online editie van een 7 uur durende after vol chille muziek, activiteiten, sociale interactie en gezelligheid.">
     <meta property="og:url" content="https://de-after.nl/">
+    <meta property="og:image" content="https://de-after.nl/share-image.png">
     <meta property="og:site_name" content="De After">
     <meta property="og:type" content="website">
 
     <title>De After</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/after-homepage/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 </head>
 <body>
     <div class="page-wrapper vh-100 d-flex align-items-end">
